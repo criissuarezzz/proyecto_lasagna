@@ -1,11 +1,11 @@
 <mxfile host="65bd71144e">
     <diagram id="602J1CLQv2C14pnpx-nB" name="Página-1">
-        <mxGraphModel dx="734" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="545" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="2" value="INICIO" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="314" y="40" width="100" height="60" as="geometry"/>
+                    <mxGeometry x="390" y="50" width="100" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
